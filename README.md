@@ -48,14 +48,13 @@ Flowice leverages Solana's speed and composability to build a seamless, interope
 | Messaging     | Push Protocol / Email APIs  |
 
 
-## Contributing
+## 🤝 Contributing
 
-- Fork the repository
-- Create a feature branch
-- git checkout -b feature/your-feature-name
-- Make your changes and commit
-- git commit -m "Add: your message here"
-- Push and open a PR
-- git push origin feature/your-feature-name
+This project is part of an initiative for the **Finternet**. If you're interested in the concept or have ideas to contribute, feel free to jump in and help me!
+
+You're welcome to fork the repo, create pull requests, or open issues.
+
+If you'd like to collaborate directly or discuss the project, feel free to reach out to me on Telegram: [Panditnilesh618]
+
 
 
