@@ -48,40 +48,5 @@ Flowice leverages Solana's speed and composability to build a seamless, interope
 | Messaging     | Push Protocol / Email APIs  |
 
 
-## Getting Started
-
-> **Make sure you have Solana CLI, Anchor, Node.js, and Rust installed.**
-
-```bash
-# Clone the repo
-git clone
-cd flowice
-
-# Install frontend dependencies
-cd frontend && npm install
-
-# Install backend dependencies
-cd ../backend && npm install
-
-# Build smart contracts
-cd ../contracts
-anchor build
-
-# Configure Solana cluster (e.g., devnet)
-solana config set --url https://api.devnet.solana.com
-
-# Start local dev (frontend/backend)
-npm run dev
-
-
-# Fork the repository
-# Create a feature branch
-git checkout -b feature/your-feature-name
-
-# Make your changes and commit
-git commit -m "Add: your message here"
-
-# Push and open a PR
-git push origin feature/your-feature-name
 
 
