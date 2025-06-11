@@ -16,8 +16,6 @@ Flowice leverages Solana's speed and composability to build a seamless, interope
 -  **Automated Settlement** — Payments flow directly to investors on invoice maturity
 -  **Auction-Based Pricing** — Fair market discovery for invoice value
 -  **Multi-Currency Settlement** — Settle in stablecoins like USDC and international fiat pairs
--  **Audit & Compliance Layer** — Transparent records for regulatory readiness
--  **API Access** — Build and integrate with Flowice using public endpoints
 
 ---
 
