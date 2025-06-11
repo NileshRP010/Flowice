@@ -50,14 +50,12 @@ Flowice leverages Solana's speed and composability to build a seamless, interope
 
 ## Contributing
 
-Fork the repository
-Create a feature branch
-git checkout -b feature/your-feature-name
-
-Make your changes and commit
-git commit -m "Add: your message here"
-
-Push and open a PR
-git push origin feature/your-feature-name
+- Fork the repository
+- Create a feature branch
+- git checkout -b feature/your-feature-name
+- Make your changes and commit
+- git commit -m "Add: your message here"
+- Push and open a PR
+- git push origin feature/your-feature-name
 
 
