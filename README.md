@@ -54,7 +54,7 @@ This project is part of an initiative for the **Finternet**. If you're intereste
 
 You're welcome to fork the repo, create pull requests, or open issues.
 
-If you'd like to collaborate directly or discuss the project, feel free to reach out to me on Telegram: [https://t.me/panditnilesh618](Nilesh Pandit)
+If you'd like to collaborate directly or discuss the project, feel free to reach out to me on Telegram: [https://t.me/panditnilesh618](Nilesh_Pandit)
 
 
 
