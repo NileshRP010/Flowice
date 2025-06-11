@@ -47,21 +47,6 @@ Flowice leverages Solana's speed and composability to build a seamless, interope
 | Payments      | Solana Escrow + Automation  |
 | Messaging     | Push Protocol / Email APIs  |
 
----
-
-## Project Structure
-
-/flowice
-├── contracts/ # Anchor smart contracts
-├── frontend/ # Next.js frontend
-├── backend/ # APIs, risk scoring engine
-├── migrations/ # Deployment and testing scripts
-├── docs/ # Architecture diagrams & protocol guides
-└── README.md # Project documentation
-
-
-
----
 
 ## Getting Started
 
