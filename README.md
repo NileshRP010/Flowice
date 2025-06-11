@@ -1,6 +1,7 @@
 # Flowice
 
 [**Play Now Live Website**](https://flowice.vercel.app/)
+
 Flowice is a decentralized invoice financing platform built on the Finternet using Solana. It enables businesses to tokenize invoices and access global liquidity from investors through a secure, composable, and borderless financial marketplace.
 
 Flowice leverages Solana's speed and composability to build a seamless, interoperable lending ecosystem aligned with the Finternet's vision: connect once, transact globally.
