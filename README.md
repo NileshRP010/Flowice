@@ -7,7 +7,7 @@ Flowice is a decentralized invoice financing platform built on the Finternet usi
 Flowice leverages Solana's speed and composability to build a seamless, interoperable lending ecosystem aligned with the Finternet's vision: connect once, transact globally.
 
 ![header](https://github.com/NileshRP010/Flowice/blob/main/attached%20assets/header.png)
-![Dashboard](https://github.com/NileshRP010/Flowice/blob/main/attached%20assets/dashboard.png)
+![Dashboard](https://github.com/NileshRP010/Flowice/blob/main/attached%20assets/feature.png)
 ![marketplace](https://github.com/NileshRP010/Flowice/blob/main/attached%20assets/marketplace.png)
 ![platform integration](https://github.com/NileshRP010/Flowice/blob/main/attached%20assets/platform%20integration.png)
 
