@@ -37,11 +37,11 @@ Flowice leverages Solana's speed and composability to build a seamless, interope
 | Layer         | Tech                        |
 |---------------|-----------------------------|
 | Blockchain    | Solana                      |
-| Smart Contracts | Anchor Framework (Rust)     |
+| Smart Contracts | Anchor Framework (Rust)   |
 | Frontend      | Next.js + TailwindCSS       |
 | Wallets       | Solana Wallet Adapter       |
 | Backend       | Node.js / Express           |
-| Database      | PostgreSQL / Supabase       |
+| Database      | PostgreSQL                  |
 | Tokenization  | SPL Tokens (NFT / SFT)      |
 | Risk Engine   | Python ML or heuristic scoring |
 | Payments      | Solana Escrow + Automation  |
