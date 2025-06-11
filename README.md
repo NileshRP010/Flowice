@@ -1,2 +1,102 @@
 # Flowice
 Flowice is a decentralized invoice financing platform built on the Finternet using Solana. It enables businesses to tokenize invoices and access global liquidity from investors through a secure, composable, and borderless financial marketplace.
+
+Flowice leverages Solana's speed and composability to build a seamless, interoperable lending ecosystem aligned with the Finternet's vision: connect once, transact globally.
+
+---
+
+## Key Features
+
+-  **Invoice Tokenization** — Turn invoices into tradable on-chain tokens
+-  **Borderless Financing** — Connect with global investors without intermediaries
+-  **Instant Liquidity** — Get capital immediately without waiting for customer payments
+-  **Investor Marketplace** — Discover and invest in verified tokenized invoices
+-  **Dynamic Risk Scoring** — On-chain + off-chain credit analytics for risk-adjusted funding
+-  **Secondary Market** — Trade invoice tokens before due date
+-  **Automated Settlement** — Payments flow directly to investors on invoice maturity
+-  **Auction-Based Pricing** — Fair market discovery for invoice value
+-  **Multi-Currency Settlement** — Settle in stablecoins like USDC and international fiat pairs
+-  **Audit & Compliance Layer** — Transparent records for regulatory readiness
+-  **API Access** — Build and integrate with Flowice using public endpoints
+
+---
+
+##  How It Works
+
+1. **Business Onboards** → Submits KYC and connects accounting software
+2. **Invoice is Tokenized** → NFT/SFT is minted and verified
+3. **Listed on Marketplace** → Investors view invoice metadata and terms
+4. **Investment Received** → Business receives capital in USDC or chosen currency
+5. **Invoice Paid** → Customer pays to Flowice escrow account
+6. **Settlement** → Investor receives principal + returns, minus platform fees
+
+---
+
+## Tech Stack
+
+| Layer         | Tech                        |
+|---------------|-----------------------------|
+| Blockchain    | Solana                      |
+| Smart Contracts | Anchor Framework (Rust)     |
+| Frontend      | Next.js + TailwindCSS       |
+| Wallets       | Solana Wallet Adapter       |
+| Backend       | Node.js / Express           |
+| Database      | PostgreSQL / Supabase       |
+| Tokenization  | SPL Tokens (NFT / SFT)      |
+| Risk Engine   | Python ML or heuristic scoring |
+| Payments      | Solana Escrow + Automation  |
+| Messaging     | Push Protocol / Email APIs  |
+
+---
+
+## Project Structure
+
+/flowice
+├── contracts/ # Anchor smart contracts
+├── frontend/ # Next.js frontend
+├── backend/ # APIs, risk scoring engine
+├── migrations/ # Deployment and testing scripts
+├── docs/ # Architecture diagrams & protocol guides
+└── README.md # Project documentation
+
+
+
+---
+
+## Getting Started
+
+> **Make sure you have Solana CLI, Anchor, Node.js, and Rust installed.**
+
+```bash
+# Clone the repo
+git clone
+cd flowice
+
+# Install frontend dependencies
+cd frontend && npm install
+
+# Install backend dependencies
+cd ../backend && npm install
+
+# Build smart contracts
+cd ../contracts
+anchor build
+
+# Configure Solana cluster (e.g., devnet)
+solana config set --url https://api.devnet.solana.com
+
+# Start local dev (frontend/backend)
+npm run dev
+
+
+# Fork the repository
+# Create a feature branch
+git checkout -b feature/your-feature-name
+
+# Make your changes and commit
+git commit -m "Add: your message here"
+
+# Push and open a PR
+git push origin feature/your-feature-name
+
+
